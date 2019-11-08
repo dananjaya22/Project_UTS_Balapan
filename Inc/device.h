@@ -1,8 +1,8 @@
 /*
  * device.h
  *
- *  Created on: Nov 2, 2018
- *      Author: wahyuarifin97
+ *  Created on: Nov 2, 2019
+ *      Author: dananjaya22
  */
 
 #ifndef DEVICE_H_

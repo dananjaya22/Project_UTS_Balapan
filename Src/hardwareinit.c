@@ -1,8 +1,8 @@
 /*
  * hardwareinit.c
  *
- *  Created on: Nov 2, 2018
- *      Author: wahyuarifin97
+ *  Created on: Nov 2, 2019
+ *      Author: dananjaya22
  */
 #include "main.h"
 #include "stm32f1xx_hal.h"
